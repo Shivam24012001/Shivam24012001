@@ -1,6 +1,6 @@
 # Hi, I'm Shivam! 👋
 
-I'm a data enthusiast passionate about analyzing data to uncover insights and solve real-world problems. I specialize in data cleaning, visualization, and statistical analysis using Python, Google Sheets, Power BI, and Tableau.
+I'm a data enthusiast passionate about analyzing data to uncover insights and solve real-world problems. I specialize in data cleaning, visualization, and statistical analysis using Python, Google Sheets, Power BI, and Tableau. 
 
 ## 🔧 Technologies & Tools
 ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white)
@@ -17,7 +17,7 @@ I'm a data enthusiast passionate about analyzing data to uncover insights and so
 - [Sales Performance Analysis](https://github.com/Shivam24012001/Sales-Performance-Analysis): This project analyzes the sales team's performance at Kalpana Mobiles by comparing actual mobile units sold with target figures for the first six months of the year. It provides insights into achieving sales goals and identifying areas for improvemen
 
 ## 📫 Let's Connect
-- LinkedIn: [Your LinkedIn Profile](https://linkedin.com/in/yourprofile) (add your LinkedIn link here)
+- LinkedIn: [Your LinkedIn Profile](https://www.linkedin.com/in/shivam-mishra-88a7b3200/)
 - Email: [sm8954223@gmail.com](mailto:youremail@example.com)
 
 ## 📊 GitHub Stats
