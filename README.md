@@ -18,7 +18,7 @@ I'm a data enthusiast passionate about analyzing data to uncover insights and so
 
 ## 📫 Let's Connect
 - LinkedIn: [Your LinkedIn Profile](https://linkedin.com/in/yourprofile) (add your LinkedIn link here)
-- Email: [Your Email](mailto:youremail@example.com)
+- Email: [sm8954223@gmail.com](mailto:youremail@example.com)
 
 ## 📊 GitHub Stats
 ![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=Shivam24012001&show_icons=true&theme=radical)
