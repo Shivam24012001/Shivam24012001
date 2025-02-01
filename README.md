@@ -7,7 +7,7 @@ I'm a data enthusiast passionate about analyzing data to uncover insights and so
 ![Pandas](https://img.shields.io/badge/-Pandas-150458?logo=pandas&logoColor=white)
 ![NumPy](https://img.shields.io/badge/-NumPy-013243?logo=numpy&logoColor=white)
 ![Matplotlib](https://img.shields.io/badge/-Matplotlib-11557C?logo=matplotlib&logoColor=white)
-![Seaborn](https://img.shields.io/badge/-Seaborn-4B77BE?logo=seaborn&logoColor=white)
+![Seaborn](https://img.shields.io/badge/-Seaborn-4B77BE?logo=seaborn&logoColor=white) 
 ![Jupyter](https://img.shields.io/badge/-Jupyter-F37626?logo=jupyter&logoColor=white)
 ![Google Sheets](https://img.shields.io/badge/-Google_Sheets-34A853?logo=google-sheets&logoColor=white)
 ![Power BI](https://img.shields.io/badge/-Power_BI-F2C811?logo=power-bi&logoColor=black)
