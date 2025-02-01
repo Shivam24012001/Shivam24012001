@@ -14,9 +14,7 @@ I'm a data enthusiast passionate about analyzing data to uncover insights and so
 ![Tableau](https://img.shields.io/badge/-Tableau-E97627?logo=tableau&logoColor=white)
 
 ## 🚀 Featured Projects
-- [Sales Data Analysis](https://github.com/Shivam24012001/project1): Analysis of sales data using Python and Tableau.
-- [COVID-19 Dashboard](https://github.com/Shivam24012001/project2): A Power BI dashboard visualizing COVID-19 trends.
-- [Financial Data Analysis](https://github.com/Shivam24012001/project3): Analysis of financial data using Google Sheets and Python.
+- [Sales Performance Analysis](https://github.com/Shivam24012001/Sales-Performance-Analysis): This project analyzes the sales team's performance at Kalpana Mobiles by comparing actual mobile units sold with target figures for the first six months of the year. It provides insights into achieving sales goals and identifying areas for improvemen
 
 ## 📫 Let's Connect
 - LinkedIn: [Your LinkedIn Profile](https://linkedin.com/in/yourprofile) (add your LinkedIn link here)
