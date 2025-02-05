@@ -22,4 +22,4 @@ I'm a data enthusiast passionate about analyzing data to uncover insights and so
 
 ## 📊 GitHub Stats
 ![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=Shivam24012001&show_icons=true&theme=radica)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Shivam24012001&layout=compact)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Shivam24012001&layout=compact) 
