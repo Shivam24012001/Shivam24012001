@@ -1,6 +1,6 @@
 # Hi, I'm Shivam! 👋 
 
-I'm a data enthusiast passionate about analyzing data to uncover insights and solve real-world problems. I specialize in data cleaning, visualization, and statistical analysis using Python, Google Sheets, Power BI, and Tableau. 
+I'm a data enthusiast passionate about analyzing data to uncover insights and solve real-world problems. I specialize in data cleaning, visualization, and statistical analysis using Python, Google Sheets, Power BI, and Tableau.     
 
 ## 🔧 Technologies & Tools
 ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white)
