@@ -14,8 +14,8 @@ I'm a data enthusiast passionate about analyzing data to uncover insights and so
 ![Tableau](https://img.shields.io/badge/-Tableau-E97627?logo=tableau&logoColor=white)
 
 ## 🚀 Featured Projects
-- [Sales Performance Analysis](https://github.com/Shivam24012001/Sales-Performance-Analysis): This project analyzes the sales team's performance at Kalpana Mobiles by comparing actual mobile units sold with target figures for the first six months of the year. It provides insights into achieving sales goals and identifying areas for improvemen
-- 
+- [Sales Performance Analysis](https://github.com/Shivam24012001/Sales-Performance-Analysis): This project analyzes the sales team's performance at Kalpana Mobiles by comparing actual mobile units sold with target figures for the first six months of the year. It provides insights into achieving sales goals and identifying areas for improvement.
+- [Production Efficiency Analysis of EcoDrive Innovations](https://github.com/Shivam24012001/-Production-Efficiency-Analysis-of-EcoDrive-Innovations): I recently conducted a Production Performance Analysis for EcoDrive Innovations, evaluating production center efficiency, overall trends, and monthly performance.
 
 ## 📫 Let's Connect
 - LinkedIn: [Your LinkedIn Profile](https://www.linkedin.com/in/shivam-mishra-88a7b3200/)
