@@ -15,11 +15,14 @@ I'm a data enthusiast passionate about analyzing data to uncover insights and so
 
 ## 🚀 Featured Projects
 - [Sales Performance Analysis](https://github.com/Shivam24012001/Sales-Performance-Analysis): This project analyzes the sales team's performance at Kalpana Mobiles by comparing actual mobile units sold with target figures for the first six months of the year. It provides insights into achieving sales goals and identifying areas for improvemen
+- 
 
 ## 📫 Let's Connect
 - LinkedIn: [Your LinkedIn Profile](https://www.linkedin.com/in/shivam-mishra-88a7b3200/)
 - Email: [sm8954223@gmail.com](mailto:youremail@example.com)
 
 ## 📊 GitHub Stats
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=Shivam24012001&show_icons=true&theme=radica)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Shivam24012001&layout=compact) 
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=Shivam24012001&show_icons=true&theme=radical&cache_seconds=86400)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Shivam24012001&layout=compact&cache_seconds=86400)
+
