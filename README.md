@@ -23,6 +23,9 @@ I'm a data enthusiast passionate about analyzing data to uncover insights and so
 
 ## 📊 GitHub Stats
 ![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=Shivam24012001&show_icons=true&theme=radical&cache_seconds=0)
+## 🔥 Streak Stats
+[![GitHub Streak](https://streak-stats.demolab.com?user=Shivam24012001&theme=radical)](https://git.io/streak-stats)
+## 📈 Contribution Graph
+[![Shivam's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Shivam24012001&theme=radical)](https://github.com/Shivam24012001)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Shivam24012001&layout=compact&cache_seconds=1)
 
