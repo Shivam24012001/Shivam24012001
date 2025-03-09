@@ -22,7 +22,7 @@ I'm a data enthusiast passionate about analyzing data to uncover insights and so
 - Email: [sm8954223@gmail.com](mailto:youremail@example.com)
 
 ## 📊 GitHub Stats
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=Shivam24012001&show_icons=true&theme=radical&cache_seconds=3)
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=Shivam24012001&show_icons=true&theme=radical&cache_seconds=0)
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Shivam24012001&layout=compact&cache_seconds=1)
 
