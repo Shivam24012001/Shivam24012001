@@ -22,7 +22,8 @@ I'm a data enthusiast passionate about analyzing data to uncover insights and so
 - Email: [sm8954223@gmail.com](mailto:youremail@example.com)
 
 ## 📊 GitHub Stats
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=Shivam24012001&show_icons=true&theme=radical&cache_seconds=0)
+![GitHub Streak](https://streak-stats.demolab.com?user=Shivam24012001&theme=radical)
+
 ## 🔥 Streak Stats
 [![GitHub Streak](https://streak-stats.demolab.com?user=Shivam24012001&theme=radical)](https://git.io/streak-stats)
 ## 📈 Contribution Graph
