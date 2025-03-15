@@ -21,8 +21,6 @@ I'm a data enthusiast passionate about analyzing data to uncover insights and so
 - LinkedIn: [Your LinkedIn Profile](https://www.linkedin.com/in/shivam-mishra-88a7b3200/)
 - Email: [sm8954223@gmail.com](mailto:youremail@example.com)
 
-## 📊 GitHub Stats
-![GitHub Streak](https://streak-stats.demolab.com?user=Shivam24012001&theme=radical)
 
 ## 🔥 Streak Stats
 ![GitHub Streak](https://streak-stats.demolab.com/?user=Shivam24012001&theme=radical)
