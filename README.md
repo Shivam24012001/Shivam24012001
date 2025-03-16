@@ -23,7 +23,7 @@ I'm a data enthusiast passionate about analyzing data to uncover insights and so
 
 
 ## 🔥 Streak Stats
-![GitHub Streak](https://streak-stats.demolab.com/?user=Shivam24012001&theme=radical)
+![GitHub Streak](https://streak-stats.demolab.com/?user=Shivam24012001&theme=radical) 
 
 ## 📈 Contribution Graph
 [![Shivam's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Shivam24012001&theme=radical)](https://github.com/Shivam24012001)
