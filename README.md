@@ -3,7 +3,7 @@
 I'm a data enthusiast passionate about analyzing data to uncover insights and solve real-world problems. I specialize in data cleaning, visualization, and statistical analysis using Python, Google Sheets, Power BI, and Tableau.     
 
 ## 🔧 Technologies & Tools
-![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white)
+![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white) 
 ![Pandas](https://img.shields.io/badge/-Pandas-150458?logo=pandas&logoColor=white)
 ![NumPy](https://img.shields.io/badge/-NumPy-013243?logo=numpy&logoColor=white)
 ![Matplotlib](https://img.shields.io/badge/-Matplotlib-11557C?logo=matplotlib&logoColor=white)
