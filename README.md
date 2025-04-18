@@ -14,8 +14,9 @@ I'm a data enthusiast passionate about analyzing data to uncover insights and so
 ![Tableau](https://img.shields.io/badge/-Tableau-E97627?logo=tableau&logoColor=white) 
 
 ## 🚀 Featured Projects
-- [Sales Performance Analysis](https://github.com/Shivam24012001/Sales-Performance-Analysis): This project analyzes the sales team's performance at Kalpana Mobiles by comparing actual mobile units sold with target figures for the first six months of the year. It provides insights into achieving sales goals and identifying areas for improvement.
-- [Production Efficiency Analysis of EcoDrive Innovations](https://github.com/Shivam24012001/-Production-Efficiency-Analysis-of-EcoDrive-Innovations): I recently conducted a Production Performance Analysis for EcoDrive Innovations, evaluating production center efficiency, overall trends, and monthly performance.
+- [Power-BI Digital Marketing Performance Analysis](https://github.com/Shivam24012001/-Power-BI-Digital-Marketing-Performance-Analysis): Silvercraft E-Commerce is a premium online brand specializing in elegant silver accessories. To grow its digital presence and sales, Silvercraft launched multiple campaigns on platforms like Facebook, Instagram, and Pinterest. This project focuses on analyzing those campaigns to improve performance and maximize marketing ROI.
+- [FlavorUp Cloud Kitchen Network Analysis
+](https://github.com/Shivam24012001/FlavorUp-Cloud-Kitchen-Network-Analysis): FlavorUp operates a network of cloud kitchens across Bangalore, leveraging data-driven insights to optimize operations and enhance customer satisfaction. This project analyzes last month's order data to evaluate delivery performance, operational efficiency, and key revenue metrics.
 
 ## 📫 Let's Connect
 - LinkedIn: [Your LinkedIn Profile](https://www.linkedin.com/in/shivam-mishra-88a7b3200/)
