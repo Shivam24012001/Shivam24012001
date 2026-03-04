@@ -91,14 +91,6 @@ Key Features
 🔗 Project  
 https://github.com/Shivam24012001/logistics-snowpark-platform
 
-
-
-# 📊 GitHub Stats
-
-![Shivam's GitHub stats](https://github-readme-stats.vercel.app/api?username=Shivam24012001&show_icons=true&theme=radical)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Shivam24012001&layout=compact&theme=radical)
-
 ---
 
 # 🔥 GitHub Streak
