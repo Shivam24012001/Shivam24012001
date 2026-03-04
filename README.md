@@ -1,46 +1,135 @@
-# Hi, I'm Shivam! 👋 
+<h1 align="center">Hi 👋, I'm Shivam Mishra</h1>
 
-I'm a data enthusiast passionate about analyzing data to uncover insights and solve real-world problems. I specialize in data cleaning, visualization, and statistical analysis using Python, Google Sheets, Power BI, and Tableau.     
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?lines=Snowflake+Data+Engineer;Data+Analyst;Analytics+Engineer;Building+Data+Platforms;Python+%7C+SQL+%7C+Snowflake&center=true&width=500&height=50">
+</p>
 
-## 🔧 Technologies & Tools
-![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white) 
-![Pandas](https://img.shields.io/badge/-Pandas-150458?logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/-NumPy-013243?logo=numpy&logoColor=white)
-![Matplotlib](https://img.shields.io/badge/-Matplotlib-11557C?logo=matplotlib&logoColor=white)
-![Seaborn](https://img.shields.io/badge/-Seaborn-4B77BE?logo=seaborn&logoColor=white) 
-![Jupyter](https://img.shields.io/badge/-Jupyter-F37626?logo=jupyter&logoColor=white)
-![Google Sheets](https://img.shields.io/badge/-Google_Sheets-34A853?logo=google-sheets&logoColor=white)
-![Power BI](https://img.shields.io/badge/-Power_BI-F2C811?logo=power-bi&logoColor=black)
-![Tableau](https://img.shields.io/badge/-Tableau-E97627?logo=tableau&logoColor=white) 
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Shivam24012001&label=Profile%20Views&color=blue&style=flat"/>
+</p>
 
-## 🚀 Featured Projects
-- [Power-BI Digital Marketing Performance Analysis](https://github.com/Shivam24012001/-Power-BI-Digital-Marketing-Performance-Analysis): Silvercraft E-Commerce is a premium online brand specializing in elegant silver accessories. To grow its digital presence and sales, Silvercraft launched multiple campaigns on platforms like Facebook, Instagram, and Pinterest. This project focuses on analyzing those campaigns to improve performance and maximize marketing ROI.
+---
 
-  
-- [FlavorUp Cloud Kitchen Network Analysis
-](https://github.com/Shivam24012001/FlavorUp-Cloud-Kitchen-Network-Analysis): FlavorUp operates a network of cloud kitchens across Bangalore, leveraging data-driven insights to optimize operations and enhance customer satisfaction. This project analyzes last month's order data to evaluate delivery performance, operational efficiency, and key revenue metrics.
+# 🚀 About Me
 
+I'm a **Data Analyst & Snowflake Data Engineer with 2+ years of experience** designing analytics systems and scalable ELT pipelines for operational intelligence.
 
-- [Customer Engagement Analysis for StreamFlix
-](https://github.com/Shivam24012001/Customer-Engagement-Analysis-for-StreamFlix): This project focused on analyzing customer engagement for StreamFlix using RFM (Recency ⏳, Frequency 🔄, Monetary 💰) segmentation and visualizing the results through an interactive Tableau dashboard 📊. The dashboard aims to empower data-driven decision-making for personalized marketing strategies 🎯 to enhance customer retention and boost usage.
+I specialize in building **data platforms, analytics infrastructure, and automated reporting systems** that enable organizations to make data-driven decisions.
 
+🔹 Architecting **Snowflake data infrastructure**  
+🔹 Designing **Medallion Architecture (Bronze → Silver → Gold)**  
+🔹 Building **ELT pipelines and automated reporting systems**  
+🔹 Developing **logistics and operational analytics platforms**
 
-- [SafeCars Performance and Quality Analysis
-](https://github.com/Shivam24012001/SafeCars-Perfprmance-and-Quality-Analysis): SafeCar, a car manufacturing company, is concerned with the quality of its vehicles. The manufacturer tracks various parts supplied by different suppliers to identify and address quality issues. The goal is to understand how to analyze this data to make informed decisions about supplier performance and vehicle quality.
+---
 
-- [Baskit Premium Delivery – Data Analysis & Customer Insights
-](https://github.com/Shivam24012001/Baskit-): Baskit is a premium delivery service in Bangalore, specializing in fresh fruits, vegetables, snacks, and drinks. With a focus on high-quality produce and prompt delivery, Baskit caters to health-conscious customers.
+# 💼 Real World Impact
 
-## 📫 Let's Connect
-- LinkedIn: [Your LinkedIn Profile](https://www.linkedin.com/in/shivam-mishra-88a7b3200/)
-- Email: [sm8954223@gmail.com](mailto:youremail@example.com)
+✔ Reduced **manual MIS reporting by 90%** saving **150+ hours/month**
 
+✔ Built **Snowflake + Metabase analytics infrastructure** across multiple business units
 
-## 🔥 Streak Stats
-![GitHub Streak](https://streak-stats.demolab.com/?user=Shivam24012001&theme=radical&cache_seconds=2) 
+✔ Designed **SQL bulk order detection system** reducing revenue leakage from **40% → 10%**
+
+✔ Built **logistics analytics platform** identifying high-volume order patterns
+
+✔ Developed **real-time picker operations dashboards** improving SLA monitoring
+
+---
 
 
-## 📈 Contribution Graph
+# ⚙️ Data Engineering Tools
+
+![Snowflake](https://img.shields.io/badge/Snowflake-29B5E8?logo=snowflake&logoColor=white)
+![Snowpark](https://img.shields.io/badge/Snowpark-Python-blue)
+![SnowSQL](https://img.shields.io/badge/SnowSQL-29B5E8)
+![SQL](https://img.shields.io/badge/Advanced_SQL-red)
+![AWS S3](https://img.shields.io/badge/AWS-S3-orange)
+![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white)
+
+---
+
+
+# 📊 Data Analysis & Processing
+
+![Pandas](https://img.shields.io/badge/Pandas-150458?logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?logo=numpy&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-blue)
+![Seaborn](https://img.shields.io/badge/Seaborn-4C72B0)
+![Excel](https://img.shields.io/badge/Excel-217346?logo=microsoft-excel&logoColor=white)
+
+---
+
+# 📈 Business Intelligence
+
+![Metabase](https://img.shields.io/badge/Metabase-509EE3?logo=metabase&logoColor=white)
+![Power BI](https://img.shields.io/badge/PowerBI-F2C811?logo=powerbi&logoColor=black)
+![Tableau](https://img.shields.io/badge/Tableau-E97627?logo=tableau&logoColor=white)
+
+---
+
+# 🧰 Data Apps & Automation
+
+![Flask](https://img.shields.io/badge/Flask-black?logo=flask)
+![Streamlit](https://img.shields.io/badge/Streamlit-red?logo=streamlit)
+![Python Automation](https://img.shields.io/badge/Python-Automation-blue)
+---
+# 🚚 Featured Data Engineering Project
+
+### Logistics Snowpark Data Platform
+
+End-to-end **Snowflake Data Engineering platform** simulating a real-world logistics system.
+
+Key Features
+
+• Snowpark Python ingestion framework  
+• Structured Parquet ingestion  
+• Bronze → Silver → Gold architecture  
+• FILE_LOAD_AUDIT ingestion monitoring  
+• Metadata tracking  
+
+🔗 Project  
+https://github.com/Shivam24012001/logistics-snowpark-platform
+
+
+
+# 📊 GitHub Stats
+
+![Shivam's GitHub stats](https://github-readme-stats.vercel.app/api?username=Shivam24012001&show_icons=true&theme=radical)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Shivam24012001&layout=compact&theme=radical)
+
+---
+
+# 🔥 GitHub Streak
+
+![GitHub Streak](https://streak-stats.demolab.com/?user=Shivam24012001&theme=radical)
+
+---
+
+# 📈 Contribution Graph
+
 [![Shivam's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Shivam24012001&theme=radical)](https://github.com/Shivam24012001)
 
+---
 
+# 🐍 Contribution Snake
+
+![snake gif](https://github.com/Shivam24012001/Shivam24012001/blob/output/github-contribution-grid-snake.svg)
+
+---
+
+# 📫 Connect With Me
+
+💼 LinkedIn  
+https://www.linkedin.com/in/shivammishra-sm/
+
+📧 Email  
+sm8954223@gmail.com
+
+🌐 Portfolio  
+https://shivam24012001.github.io/
+
+---
+
+⭐ **Always learning. Always building.**
