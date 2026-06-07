@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Shivam Mishra</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=4000&pause=500&lines=Data+Analyst+%26+Engineer;Snowflake+%7C+Python+%7C+SQL+Expert;Building+Analytics+at+Scale;Revenue+Optimization+%26+Automation;Data-Driven+Decision+Making&center=true&width=700&height=70" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=4000&pause=500&lines=Data+Analyst+%26+Engineer;Snowflake+%7C+Python+%7C+SQL;Analytics+Infrastructure;Revenue+Operations;Data+Driven+Decisions&center=true&width=700&height=70" alt="Typing SVG" />
 </p>
 
 <div align="center">
@@ -15,131 +15,111 @@
 
 ---
 
-## 🎯 Quick Overview
+## 🎯 Overview
 
-> **Data Analyst & Engineer** transforming complex operational challenges into scalable analytics solutions. Proven track record of **75% revenue protection**, **150+ hours/month automation**, and **cross-functional data leadership** enabling data-driven decisions across Product, Logistics, Operations, Marketing, Business, and Tech teams.
-
----
-
-## 💎 Why Work With Me?
-
-### 🏆 Impact-Driven Results
-- **75% Revenue Leakage Reduction** — Built SQL-based fraud detection engine for bulk ordering patterns, converting manual periodic audits into continuous, automated monitoring
-- **150+ Hours/Month Saved** — Automated entire MIS reporting workflows; reporting turnaround reduced from **days → minutes**
-- **30% Data Quality Improvement** — Built governance frameworks preventing business decisions on bad data
-- **C-Level Adoption** — Real-time dashboards now drive daily operational decisions for leadership
-- **Cross-Functional Data Leadership** — Enabled Product, Logistics, Operations, Marketing, Business, and Tech teams with self-service analytics
-
-### 🚀 Full-Stack Data Capabilities
-From raw data to business insights—I handle the entire pipeline:
-- **Data Pipelines & Infrastructure** (ETL/ELT, Snowflake, star-schema modeling)
-- **Automation & Optimization** (Python, SQL tuning, intelligent monitoring)
-- **Analytics & BI** (Power BI, Tableau, Metabase, data storytelling)
-- **Problem-Solving** (root-cause analysis, fraud detection, process optimization)
-- **Cross-Functional Collaboration** (Product strategy, business requirements, stakeholder alignment)
+**Data Analyst & Engineer** with 2+ years of experience building analytics infrastructure and automating data operations for scale. Track record of reducing manual processes by 90%, protecting revenue through SQL-based fraud detection, and enabling cross-functional teams with self-service analytics.
 
 ---
 
 ## 💼 Professional Experience
 
 ### 📍 Data Analyst — **Attero Recycling Pvt. Ltd.**
-**Jun 2025 – Present | Noida, UP** | Product-Driven Analytics & Logistics Operations
+**Jun 2025 – Present | Noida, UP** | Product & Logistics Analytics
 
 <table>
 <tr>
 <td width="50%">
 
-**🎯 Key Contributions**
-- **Product-Led Analytics**: Partnered with Product team to define metrics, drive feature adoption, and optimize user workflows
-- **Cross-Functional Support**: Enabled Logistics, Operations, Marketing, Business, and Tech teams with data-driven insights
-- Designed **end-to-end ETL pipelines** tracking 50K+ daily orders across Pan-India logistics
-- Built **real-time KPI dashboards** adopted by C-suite for operational decisions
-- Engineered **SQL-based fraud detection system** identifying bulk ordering patterns and anomalous transactions
+**Delivered**
+- **ETL infrastructure** for Pan-India logistics operations using Snowflake and star-schema modeling
+- **MIS automation** eliminating 150+ manual hours/month; turnaround reduced from days to minutes
+- **SQL-based fraud detection** for bulk ordering patterns, protecting revenue
+- **Real-time dashboards** (Metabase) adopted by C-level and operations teams
+- **Self-service analytics layer** enabling Product, Logistics, Operations, Marketing, Business, and Tech teams
 
 </td>
 <td width="50%">
 
-**📊 Business Impact**
-- 💰 **75% revenue protection** (40% → 10% leakage)
-- ⏱️ **150+ hrs/month saved** (MIS automation)
+**Impact**
+- 💰 **75% revenue leakage reduction** (40% → 10%)
+- ⏱️ **150+ hours/month saved** (automated workflows)
 - 📈 **20% SLA improvement** (optimized monitoring)
-- 🤝 **6+ teams enabled** with self-service analytics
-- 📊 **Product-wide metrics** driving feature prioritization
+- 🤝 **6+ teams enabled** with analytics access
+- 📊 **Continuous monitoring** replacing manual audits
 
 </td>
 </tr>
 </table>
 
-**Technical Highlights:**
-- Built scalable **Snowflake data warehouse** with star-schema models supporting 100K+ daily queries
-- Engineered **complex SQL-based fraud detection logic** using window functions, CTEs, and statistical aggregations to identify bulk ordering patterns and reduce fraud by 75%
-- Automated **SQL-based root-cause analysis** detecting hidden revenue patterns in real-time
-- Optimized **complex SQL queries**, reducing dashboard load times by 60% and infrastructure costs
-- Created **self-service analytics layer** enabling cross-functional teams (Product, Operations, Logistics, Marketing, Business, Tech) to access insights independently
-- Implemented **data quality frameworks** catching issues before they impact business decisions
-- **Product collaboration**: Translated user feedback and product strategy into actionable data metrics
+**How it worked:**
+- Designed Snowflake warehouse with dimensional modeling for fast analytics queries
+- Built Python & SQL ETL pipelines for automated data ingestion and transformation
+- Engineered SQL-based rules engine identifying unusual ordering patterns and anomalies in real-time
+- Optimized complex queries to reduce dashboard load times and keep infrastructure costs reasonable
+- Worked with Product and Operations to translate business requirements into metrics and dashboards
+- Implemented data validation checks to catch quality issues before they affect decisions
 
 ---
 
 ### 📍 Data Analyst — **AlphaMetrics International Pvt. Ltd.**
-**Jan 2024 – Mar 2025 | Remote** | Multi-Vertical Product Analytics
+**Jan 2024 – Mar 2025 | Remote** | Multi-Vertical Analytics
 
 <table>
 <tr>
 <td width="50%">
 
-**🎯 Key Contributions**
-- **Product Strategy Support**: Collaborated with Product team on feature impact analysis and user behavior insights
-- Developed **5+ BI dashboards** across revenue, conversion, and operational verticals
-- Conducted **advanced analytics** (funnel, cohort, A/B, ROI analysis)
-- Automated **40%+ manual reporting** workflows using Python & SQL
-- Enabled **cross-team decision-making** through self-service analytics
+**Delivered**
+- **BI dashboards** across 5+ business verticals (Power BI, Tableau) for real-time visibility
+- **ETL automation** reducing manual reporting effort by 40%+
+- **Advanced analytics** including funnel, cohort, A/B testing, and ROI analysis
+- **Data governance frameworks** improving data reliability and confidence
+- **Product analytics** supporting feature prioritization and adoption tracking
 
 </td>
 <td width="50%">
 
-**📊 Business Impact**
-- 📉 **40% manual effort reduction** (ETL automation)
-- 🎯 **Improved conversion rates** (through A/B insights)
-- ✅ **30% data quality lift** (validation frameworks)
-- 📊 **Multi-vertical visibility** across 5+ business units
-- 🚀 **Data-driven product roadmap** support
+**Impact**
+- 📉 **40% manual effort reduction** across reporting workflows
+- 🎯 **Actionable insights** driving conversion improvements
+- ✅ **30% data quality lift** through validation and governance
+- 📊 **Multi-team visibility** into revenue and operational metrics
+- 🚀 **Data-informed product decisions**
 
 </td>
 </tr>
 </table>
 
-**Technical Highlights:**
-- Built **Power BI & Tableau dashboards** providing real-time visibility into revenue, conversion, and KPI performance across 5+ business units
-- Designed **Python-based ETL pipelines** processing 1M+ records daily, reducing manual effort by 40%+
-- Implemented **data validation & governance frameworks**, improving reliability and enabling confident decision-making
-- Partnered with Product, Operations, and Business teams in **Agile environments**, translating analytical findings into actionable business requirements
-- **User analytics**: Tracked adoption metrics, feature performance, and user behavior patterns for product optimization
+**How it worked:**
+- Built Power BI and Tableau dashboards connecting to multiple data sources
+- Designed Python-based ETL pipelines processing daily data and feeding BI tools
+- Conducted funnel analysis, cohort studies, and A/B test analysis for Product teams
+- Implemented data validation and documentation practices to improve reliability
+- Collaborated in Agile workflows to translate findings into business action
 
 ---
 
-## 🛠️ Technical Arsenal
+## 🛠️ Technical Skills
 
-### 🗄️ Data Engineering & Warehousing
+### Data Engineering & Warehousing
 ```
 Snowflake · Star-Schema Modeling · ETL/ELT Pipelines · Data Governance
-SQL (Advanced: Joins, CTEs, Window Functions, Query Optimization, Performance Tuning)
-Fraud Detection Logic · Anomaly Detection · Pattern Recognition
+SQL: Joins, CTEs, Window Functions, Query Optimization, Performance Tuning
+Fraud Detection Logic · Pattern Recognition · Automated Rules Engines
 ```
 ![Snowflake](https://img.shields.io/badge/Snowflake-29B5E8?logo=snowflake&logoColor=white&style=for-the-badge)
 ![SQL](https://img.shields.io/badge/Advanced%20SQL-CC2927?logo=database&logoColor=white&style=for-the-badge)
 ![ETL](https://img.shields.io/badge/ETL%2FELT-4285F4?style=for-the-badge)
 
-### 🐍 Python & Automation
+### Python & Automation
 ```
-Pandas · NumPy · Data Processing · API Integrations · Workflow Automation
-Backend Logic · Script Optimization · Data Validation
+Pandas · NumPy · Data Processing · Workflow Automation
+API Integrations · Data Validation · Backend Logic
 ```
 ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white&style=for-the-badge)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?logo=pandas&logoColor=white&style=for-the-badge)
 ![NumPy](https://img.shields.io/badge/NumPy-013243?logo=numpy&logoColor=white&style=for-the-badge)
 
-### 📊 Analytics & Business Intelligence
+### Analytics & Business Intelligence
 ```
 Power BI · Tableau · Metabase · Data Storytelling · Dashboard Design
 Advanced Excel · KPI/Funnel/Cohort/A/B Testing · ROI Analysis
@@ -148,186 +128,97 @@ Advanced Excel · KPI/Funnel/Cohort/A/B Testing · ROI Analysis
 ![Tableau](https://img.shields.io/badge/Tableau-E97627?logo=tableau&logoColor=white&style=for-the-badge)
 ![Metabase](https://img.shields.io/badge/Metabase-509EE3?logo=metabase&logoColor=white&style=for-the-badge)
 
-### 🛠️ DevOps & Collaboration
+### DevOps & Collaboration
 ```
-Git · JIRA · Agile/Scrum · Version Control · Documentation
-AI-Assisted Development · LLMs for SQL/Python · Process Improvement
+Git · JIRA · Agile/Scrum · Documentation
+Snowpark Python · Version Control
 ```
 ![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white&style=for-the-badge)
 ![JIRA](https://img.shields.io/badge/JIRA-0052CC?logo=jira&logoColor=white&style=for-the-badge)
-![AWS](https://img.shields.io/badge/AWS-FF9900?logo=amazonaws&logoColor=white&style=for-the-badge)
-
----
-
-## 🎓 Core Competencies
-
-| Category | Expertise |
-|----------|-----------|
-| **Analytics** | Root-cause analysis, Fraud detection, KPI/Funnel/Cohort analysis, A/B testing, ROI analysis, Data quality monitoring, Pattern recognition |
-| **Data Operations** | Process automation, Workflow optimization, ETL/ELT pipeline design, Data governance, Performance tuning, Backend logic implementation |
-| **BI & Visualization** | Dashboard design, Real-time monitoring frameworks, Data storytelling, Executive reporting, Self-service analytics |
-| **Cross-Functional Leadership** | Product strategy alignment, Stakeholder management, Business requirements translation, Multi-team enablement |
 
 ---
 
 ## 🚀 Featured Project
 
-### 📦 Logistics Analytics Platform
-**Production-Grade Data Infrastructure | Snowflake · Python · SQL · Power BI · 2026**
+### Logistics Analytics Platform
+**Snowflake · Python · SQL · Power BI | 2026**
 
-A comprehensive analytics platform simulating enterprise-scale logistics operations with full data infrastructure.
+End-to-end analytics infrastructure for a logistics operation, demonstrating production-grade data practices.
 
-<table>
-<tr>
-<td width="60%">
+**Architecture:**
+- Snowflake data warehouse with dimensional models (orders, customers, payments, deliveries)
+- ETL pipeline ingesting and transforming daily data
+- Automated data quality checks and monitoring
+- Real-time dashboards tracking revenue KPIs, SLA adherence, and delivery performance
 
-**🏗️ Architecture**
-- End-to-end ETL pipeline ingesting orders, customers, payments, deliveries
-- Star-schema data model optimized for analytics queries
-- Real-time data quality monitoring and automated alerting
-- SQL-based fraud detection engine for bulk ordering patterns
-- Self-service analytics layer for cross-functional teams
+**Outcomes:**
+- Delivered actionable dashboards used across operations teams
+- Demonstrated fraud detection capabilities through SQL-based pattern matching
+- Built reusable data models and transformation logic for scalability
 
-**📊 Dashboards & Insights**
-- Revenue KPI tracking and trend analysis
-- SLA adherence monitoring and fraud detection
-- Delivery performance and logistics optimization
-- Order lifecycle metrics and funnel analysis
-- Bulk order flagging and anomaly alerts
-
-</td>
-<td width="40%">
-
-**📈 Results Achieved**
-- ✅ 20% reduction in SLA non-compliance
-- ✅ Real-time fraud detection and prevention
-- ✅ 40% faster query performance vs. manual analysis
-- ✅ Automated data quality checks (99.5% data accuracy)
-- ✅ Self-service analytics enabling 6+ teams
-- ✅ 75% reduction in fraudulent transactions
-
-**🔗 Explore on GitHub**
-[→ View Full Project](https://github.com/Shivam24012001/logistics-snowpark-platform)
-
-</td>
-</tr>
-</table>
+🔗 [View on GitHub](https://github.com/Shivam24012001/logistics-snowpark-platform)
 
 ---
 
-## 📊 Key Achievements at a Glance
+## 📊 Metrics That Matter
 
-<div align="center">
-
-| 🎯 | 📈 | ⏱️ | ✅ |
-|:---:|:---:|:---:|:---:|
-| **75% Fraud**<br>Reduction<br><sub>SQL-based detection</sub> | **150+ Hours**<br>Saved Monthly<br><sub>MIS automation</sub> | **Days → Minutes**<br>Reporting Time<br><sub>90% speedup</sub> | **30% Quality**<br>Improvement<br><sub>Validation frameworks</sub> |
-
-| 🏆 | 🤝 | 🔄 | 💡 |
-|:---:|:---:|:---:|:---:|
-| **C-Level**<br>Dashboard Adoption<br><sub>Daily decision-making</sub> | **6+ Teams**<br>Enabled<br><sub>Self-service analytics</sub> | **40%+ Effort**<br>Reduction<br><sub>Automation pipelines</sub> | **60% Faster**<br>Query Performance<br><sub>SQL optimization</sub> |
-
-</div>
-
----
-
-## 🌟 Why Hire Me?
-
-✨ **Problem-Solver First** — I dig deep to understand root causes, not just symptoms  
-🎯 **Impact-Oriented** — Every project is measured by business value, not just technical metrics  
-🚀 **Scalable Thinker** — I build solutions that grow with your business, not one-off fixes  
-📚 **Continuous Learner** — Always exploring new tools, techniques, and best practices  
-🤝 **Cross-Functional Leader** — Thrive in multi-team environments; excellent at translating between Product, technical, and business teams  
-📈 **Data Storyteller** — Can translate complex analyses into clear, actionable insights for any audience  
-🎯 **Product Mindset** — Understand how data drives product decisions and user success  
-🔒 **Security-Focused** — Build robust fraud detection and data validation frameworks
-
----
-
-## 📊 GitHub Activity
-
-<div align="center">
-
-### 🔥 Contribution Streak
-![GitHub Streak](https://streak-stats.demolab.com/?user=Shivam24012001&theme=radical&border_radius=10&hide_border=true)
-
-### 📈 Contribution Graph
-[![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Shivam24012001&theme=radical&hide_border=true&border_radius=10)](https://github.com/Shivam24012001)
-
-### 🎨 Most Used Languages
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Shivam24012001&layout=compact&theme=radical&hide_border=true&border_radius=10)
-
-</div>
+| Achievement | What It Means |
+|-------------|---------------|
+| **75% revenue leakage reduction** | SQL rules engine caught fraud patterns manual audits missed |
+| **150+ hours/month saved** | Automated workflows replaced repetitive manual work |
+| **Days → minutes reporting** | Real-time dashboards replaced slow batch processes |
+| **20% SLA improvement** | Better monitoring enabled faster issue detection |
+| **30% data quality lift** | Validation frameworks caught errors before they affected decisions |
+| **5+ teams enabled** | Analytics accessible to Product, Operations, Logistics, Marketing, Business, Tech |
 
 ---
 
 ## 📚 What I'm Currently Exploring
 
-### 🔧 Modern Data Stack & Analytics Engineering
-
-- **dbt (Data Build Tool)** — Advanced data transformation & modeling framework
-  - 🏗️ Data modeling best practices & semantic layer development
-  - 📝 Documentation & tests (singular/generic tests, dbt constraints)
-  - 🔄 Complete ETL lifecycle orchestration & version control
-  - ✅ CI/CD integration & production-grade data quality assurance
-  - 📊 Source-to-serve data lineage & dependency management
-
-- **📊 Advanced Data Modeling** — Dimensional modeling, star-schema optimization, slowly changing dimensions (SCD), data vault methodologies
-
-- **🔄 Workflow Orchestration** — Airflow, dbt Cloud, Prefect for enterprise-scale pipeline scheduling & monitoring
-
-- **🤖 AI/LLMs in Analytics** — Leveraging LLMs for automated insights, anomaly descriptions, and intelligent alerting
-
-- **📊 Real-time Streaming Analytics** — Kafka, Spark, real-time ETL architectures, event-driven data pipelines
-
-- **☁️ Enterprise Data Platforms** — BigQuery, Azure Synapse, advanced Snowflake features for scalable analytics
+- **dbt (Data Build Tool)** — Data transformation, semantic layers, testing, and CI/CD for analytics
+- **Advanced data modeling** — Slowly changing dimensions, data vault patterns, dimensional design
+- **Workflow orchestration** — Airflow, dbt Cloud for production pipeline scheduling
+- **Real-time analytics** — Streaming architectures, event-driven pipelines
+- **LLMs for analytics** — Using language models to explain anomalies and automate insights
 
 ---
 
-## 💬 Let's Connect & Build Together
+## 💬 Let's Connect
 
-I'm always excited to discuss:
-- 🚀 Data engineering challenges and solutions
-- 📊 Analytics strategy and implementation
-- 🤝 Cross-functional collaboration on data-driven projects
-- 💡 Industry trends in data, analytics, and automation
-- 🔧 Modern data stack tools and best practices (dbt, orchestration, etc.)
-- 📈 Product metrics and data-driven product strategy
-- 🔒 Fraud detection and revenue protection strategies
+I'm interested in discussing:
+- Data architecture and infrastructure challenges
+- Analytics strategy and team enablement
+- Cross-functional collaboration on data-driven projects
+- Product analytics and metrics frameworks
+- Fraud detection and revenue operations
 
 <div align="center">
 
-| Platform | Connect |
-|----------|---------|
+| | |
+|---------|---------|
 | 💼 **LinkedIn** | [shivammishra-sm](https://www.linkedin.com/in/shivammishra-sm/) |
 | 📧 **Email** | [sm8954223@gmail.com](mailto:sm8954223@gmail.com) |
 | 📱 **Phone** | +91-91196 72194 |
-| 🌐 **Portfolio** | [shivam24012001.github.io](https://shivam24012001.github.io/) |
 | 📍 **Location** | Noida, Uttar Pradesh, India |
 
 </div>
 
 ---
 
-<div align="center">
-
 ### 🚀 Open to Opportunities
 
-Seeking roles in:
-- **Product Analytics** (metrics, feature analysis, user insights)
-- **Data Engineering** (ETL/ELT pipelines, dbt, data warehousing)
-- **Analytics Engineering** (BI infrastructure, analytics modeling, modern data stack)
-- **Senior Data Analyst** (advanced analytics, fraud detection, cross-functional leadership)
+- **Product Analytics** — Metrics, feature analysis, user insights
+- **Data Engineering** — Pipelines, warehousing, infrastructure
+- **Analytics Engineering** — BI tools, data modeling, modern data stack
+- **Senior Data Analyst** — Advanced analytics, cross-functional work, fraud/revenue operations
 
 *Remote, Hybrid, or On-site in India*
-
-</div>
 
 ---
 
 <p align="center">
-  <b>⭐ Transforming raw data into strategic competitive advantage.</b><br>
-  <sub>Always learning. Always building. Always optimizing.</sub>
+  <b>⭐ Building analytics infrastructure that drives decisions.</b><br>
+  <sub>2+ years experience. Always learning.</sub>
 </p>
 
 <div align="center">
