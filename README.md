@@ -24,7 +24,7 @@
 ## 💎 Why Work With Me?
 
 ### 🏆 Impact-Driven Results
-- **75% Revenue Leakage Reduction** — Converted manual, periodic audits into AI-powered continuous anomaly detection
+- **75% Revenue Leakage Reduction** — Built SQL-based fraud detection engine for bulk ordering patterns, converting manual periodic audits into continuous, automated monitoring
 - **150+ Hours/Month Saved** — Automated entire MIS reporting workflows; reporting turnaround reduced from **days → minutes**
 - **30% Data Quality Improvement** — Built governance frameworks preventing business decisions on bad data
 - **C-Level Adoption** — Real-time dashboards now drive daily operational decisions for leadership
@@ -35,7 +35,7 @@ From raw data to business insights—I handle the entire pipeline:
 - **Data Pipelines & Infrastructure** (ETL/ELT, Snowflake, star-schema modeling)
 - **Automation & Optimization** (Python, SQL tuning, intelligent monitoring)
 - **Analytics & BI** (Power BI, Tableau, Metabase, data storytelling)
-- **Problem-Solving** (root-cause analysis, anomaly detection, process optimization)
+- **Problem-Solving** (root-cause analysis, fraud detection, process optimization)
 - **Cross-Functional Collaboration** (Product strategy, business requirements, stakeholder alignment)
 
 ---
@@ -54,7 +54,7 @@ From raw data to business insights—I handle the entire pipeline:
 - **Cross-Functional Support**: Enabled Logistics, Operations, Marketing, Business, and Tech teams with data-driven insights
 - Designed **end-to-end ETL pipelines** tracking 50K+ daily orders across Pan-India logistics
 - Built **real-time KPI dashboards** adopted by C-suite for operational decisions
-- Implemented **AI-powered anomaly detection** reducing false positives by 40%
+- Engineered **SQL-based fraud detection system** identifying bulk ordering patterns and anomalous transactions
 
 </td>
 <td width="50%">
@@ -72,6 +72,7 @@ From raw data to business insights—I handle the entire pipeline:
 
 **Technical Highlights:**
 - Built scalable **Snowflake data warehouse** with star-schema models supporting 100K+ daily queries
+- Engineered **complex SQL-based fraud detection logic** using window functions, CTEs, and statistical aggregations to identify bulk ordering patterns and reduce fraud by 75%
 - Automated **SQL-based root-cause analysis** detecting hidden revenue patterns in real-time
 - Optimized **complex SQL queries**, reducing dashboard load times by 60% and infrastructure costs
 - Created **self-service analytics layer** enabling cross-functional teams (Product, Operations, Logistics, Marketing, Business, Tech) to access insights independently
@@ -123,6 +124,7 @@ From raw data to business insights—I handle the entire pipeline:
 ```
 Snowflake · Star-Schema Modeling · ETL/ELT Pipelines · Data Governance
 SQL (Advanced: Joins, CTEs, Window Functions, Query Optimization, Performance Tuning)
+Fraud Detection Logic · Anomaly Detection · Pattern Recognition
 ```
 ![Snowflake](https://img.shields.io/badge/Snowflake-29B5E8?logo=snowflake&logoColor=white&style=for-the-badge)
 ![SQL](https://img.shields.io/badge/Advanced%20SQL-CC2927?logo=database&logoColor=white&style=for-the-badge)
@@ -131,7 +133,7 @@ SQL (Advanced: Joins, CTEs, Window Functions, Query Optimization, Performance Tu
 ### 🐍 Python & Automation
 ```
 Pandas · NumPy · Data Processing · API Integrations · Workflow Automation
-Anomaly Detection · Automated Alerting · Script Optimization
+Backend Logic · Script Optimization · Data Validation
 ```
 ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white&style=for-the-badge)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?logo=pandas&logoColor=white&style=for-the-badge)
@@ -161,8 +163,8 @@ AI-Assisted Development · LLMs for SQL/Python · Process Improvement
 
 | Category | Expertise |
 |----------|-----------|
-| **Analytics** | Root-cause analysis, Anomaly detection, KPI/Funnel/Cohort analysis, A/B testing, ROI analysis, Data quality monitoring |
-| **Data Operations** | Process automation, Workflow optimization, ETL/ELT pipeline design, Data governance, Performance tuning |
+| **Analytics** | Root-cause analysis, Fraud detection, KPI/Funnel/Cohort analysis, A/B testing, ROI analysis, Data quality monitoring, Pattern recognition |
+| **Data Operations** | Process automation, Workflow optimization, ETL/ELT pipeline design, Data governance, Performance tuning, Backend logic implementation |
 | **BI & Visualization** | Dashboard design, Real-time monitoring frameworks, Data storytelling, Executive reporting, Self-service analytics |
 | **Cross-Functional Leadership** | Product strategy alignment, Stakeholder management, Business requirements translation, Multi-team enablement |
 
@@ -183,23 +185,26 @@ A comprehensive analytics platform simulating enterprise-scale logistics operati
 - End-to-end ETL pipeline ingesting orders, customers, payments, deliveries
 - Star-schema data model optimized for analytics queries
 - Real-time data quality monitoring and automated alerting
+- SQL-based fraud detection engine for bulk ordering patterns
 - Self-service analytics layer for cross-functional teams
 
 **📊 Dashboards & Insights**
 - Revenue KPI tracking and trend analysis
-- SLA adherence monitoring and anomaly detection
+- SLA adherence monitoring and fraud detection
 - Delivery performance and logistics optimization
 - Order lifecycle metrics and funnel analysis
+- Bulk order flagging and anomaly alerts
 
 </td>
 <td width="40%">
 
 **📈 Results Achieved**
 - ✅ 20% reduction in SLA non-compliance
-- ✅ Real-time revenue anomaly detection
+- ✅ Real-time fraud detection and prevention
 - ✅ 40% faster query performance vs. manual analysis
 - ✅ Automated data quality checks (99.5% data accuracy)
 - ✅ Self-service analytics enabling 6+ teams
+- ✅ 75% reduction in fraudulent transactions
 
 **🔗 Explore on GitHub**
 [→ View Full Project](https://github.com/Shivam24012001/logistics-snowpark-platform)
@@ -216,7 +221,7 @@ A comprehensive analytics platform simulating enterprise-scale logistics operati
 
 | 🎯 | 📈 | ⏱️ | ✅ |
 |:---:|:---:|:---:|:---:|
-| **75% Revenue**<br>Protection<br><sub>40% → 10% leakage</sub> | **150+ Hours**<br>Saved Monthly<br><sub>MIS automation</sub> | **Days → Minutes**<br>Reporting Time<br><sub>90% speedup</sub> | **30% Quality**<br>Improvement<br><sub>Validation frameworks</sub> |
+| **75% Fraud**<br>Reduction<br><sub>SQL-based detection</sub> | **150+ Hours**<br>Saved Monthly<br><sub>MIS automation</sub> | **Days → Minutes**<br>Reporting Time<br><sub>90% speedup</sub> | **30% Quality**<br>Improvement<br><sub>Validation frameworks</sub> |
 
 | 🏆 | 🤝 | 🔄 | 💡 |
 |:---:|:---:|:---:|:---:|
@@ -234,7 +239,8 @@ A comprehensive analytics platform simulating enterprise-scale logistics operati
 📚 **Continuous Learner** — Always exploring new tools, techniques, and best practices  
 🤝 **Cross-Functional Leader** — Thrive in multi-team environments; excellent at translating between Product, technical, and business teams  
 📈 **Data Storyteller** — Can translate complex analyses into clear, actionable insights for any audience  
-🎯 **Product Mindset** — Understand how data drives product decisions and user success
+🎯 **Product Mindset** — Understand how data drives product decisions and user success  
+🔒 **Security-Focused** — Build robust fraud detection and data validation frameworks
 
 ---
 
@@ -287,6 +293,7 @@ I'm always excited to discuss:
 - 💡 Industry trends in data, analytics, and automation
 - 🔧 Modern data stack tools and best practices (dbt, orchestration, etc.)
 - 📈 Product metrics and data-driven product strategy
+- 🔒 Fraud detection and revenue protection strategies
 
 <div align="center">
 
@@ -310,7 +317,7 @@ Seeking roles in:
 - **Product Analytics** (metrics, feature analysis, user insights)
 - **Data Engineering** (ETL/ELT pipelines, dbt, data warehousing)
 - **Analytics Engineering** (BI infrastructure, analytics modeling, modern data stack)
-- **Senior Data Analyst** (advanced analytics, cross-functional leadership, dbt, orchestration)
+- **Senior Data Analyst** (advanced analytics, fraud detection, cross-functional leadership)
 
 *Remote, Hybrid, or On-site in India*
 
