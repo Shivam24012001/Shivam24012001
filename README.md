@@ -252,13 +252,6 @@ A comprehensive analytics platform simulating enterprise-scale logistics operati
 
 ---
 
-## 🎤 Testimonials
-
-> *"Shivam took our chaotic reporting process and turned it into an automated, reliable system. What used to take days now takes minutes. His attention to data quality is exceptional."*  
-> — **Operations Manager, Attero Recycling**
-
----
-
 ## 💬 Let's Connect & Build Together
 
 I'm always excited to discuss:
