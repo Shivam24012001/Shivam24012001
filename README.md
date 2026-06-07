@@ -244,11 +244,31 @@ A comprehensive analytics platform simulating enterprise-scale logistics operati
 
 ## 📚 What I'm Currently Exploring
 
-- 🔍 Advanced ML for anomaly detection and forecasting
-- 📊 Real-time streaming architectures (Kafka, Spark)
-- ☁️ Cloud data warehousing best practices (Snowflake, BigQuery)
-- 🤖 AI-assisted analytics and LLM applications in data
-- 📈 Advanced analytics frameworks (causal inference, experimentation)
+### 🔧 Modern Data Stack & Analytics Engineering
+
+- **dbt (Data Build Tool)** — Advanced data transformation & modeling framework
+  - 🏗️ Data modeling best practices & semantic layer development
+  - 📝 Documentation & tests (singular/generic tests, dbt constraints)
+  - 🔄 Complete ETL lifecycle orchestration & version control
+  - ✅ CI/CD integration & production-grade data quality assurance
+  - 📊 Source-to-serve data lineage & dependency management
+
+- **📊 Advanced Data Modeling** — Dimensional modeling, star-schema optimization, slowly changing dimensions (SCD), data vault methodologies
+
+- **🔄 Workflow Orchestration** — Airflow, dbt Cloud, Prefect for enterprise-scale pipeline scheduling & monitoring
+
+- **🤖 AI/LLMs in Analytics** — Leveraging LLMs for automated insights, anomaly descriptions, and intelligent alerting
+
+- **📊 Real-time Streaming Analytics** — Kafka, Spark, real-time ETL architectures, event-driven data pipelines
+
+- **☁️ Enterprise Data Platforms** — BigQuery, Azure Synapse, advanced Snowflake features for scalable analytics
+
+---
+
+## 🎤 Testimonials
+
+> *"Shivam took our chaotic reporting process and turned it into an automated, reliable system. What used to take days now takes minutes. His attention to data quality is exceptional."*  
+> — **Operations Manager, Attero Recycling**
 
 ---
 
@@ -259,6 +279,7 @@ I'm always excited to discuss:
 - 📊 Analytics strategy and implementation
 - 🤝 Cross-functional collaboration on data-driven projects
 - 💡 Industry trends in data, analytics, and automation
+- 🔧 Modern data stack tools and best practices (dbt, orchestration, etc.)
 
 <div align="center">
 
@@ -279,10 +300,10 @@ I'm always excited to discuss:
 ### 🚀 Open to Opportunities
 
 Seeking roles in:
-- **Data Engineering** (ETL/ELT pipelines, data warehousing)
-- **Analytics Engineering** (BI infrastructure, analytics modeling)
-- **Senior Data Analyst** (advanced analytics, process optimization)
-- **Data Operations** (automation, monitoring, governance)
+- **Data Engineering** (ETL/ELT pipelines, dbt, data warehousing)
+- **Analytics Engineering** (BI infrastructure, analytics modeling, modern data stack)
+- **Senior Data Analyst** (advanced analytics, process optimization, dbt, orchestration)
+- **Data Operations** (automation, monitoring, governance, orchestration)
 
 *Remote, Hybrid, or On-site in India*
 
