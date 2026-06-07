@@ -17,7 +17,7 @@
 
 ## 🎯 Quick Overview
 
-> **Data Analyst & Engineer** transforming complex operational challenges into scalable analytics solutions. Proven track record of **75% revenue protection**, **150+ hours/month automation**, and **$XX revenue impact** through data-driven insights and intelligent automation.
+> **Data Analyst & Engineer** transforming complex operational challenges into scalable analytics solutions. Proven track record of **75% revenue protection**, **150+ hours/month automation**, and **cross-functional data leadership** enabling data-driven decisions across Product, Logistics, Operations, Marketing, Business, and Tech teams.
 
 ---
 
@@ -28,6 +28,7 @@
 - **150+ Hours/Month Saved** — Automated entire MIS reporting workflows; reporting turnaround reduced from **days → minutes**
 - **30% Data Quality Improvement** — Built governance frameworks preventing business decisions on bad data
 - **C-Level Adoption** — Real-time dashboards now drive daily operational decisions for leadership
+- **Cross-Functional Data Leadership** — Enabled Product, Logistics, Operations, Marketing, Business, and Tech teams with self-service analytics
 
 ### 🚀 Full-Stack Data Capabilities
 From raw data to business insights—I handle the entire pipeline:
@@ -35,19 +36,22 @@ From raw data to business insights—I handle the entire pipeline:
 - **Automation & Optimization** (Python, SQL tuning, intelligent monitoring)
 - **Analytics & BI** (Power BI, Tableau, Metabase, data storytelling)
 - **Problem-Solving** (root-cause analysis, anomaly detection, process optimization)
+- **Cross-Functional Collaboration** (Product strategy, business requirements, stakeholder alignment)
 
 ---
 
 ## 💼 Professional Experience
 
 ### 📍 Data Analyst — **Attero Recycling Pvt. Ltd.**
-**Jun 2025 – Present | Noida, UP** | Logistics & E-commerce Analytics
+**Jun 2025 – Present | Noida, UP** | Product-Driven Analytics & Logistics Operations
 
 <table>
 <tr>
 <td width="50%">
 
 **🎯 Key Contributions**
+- **Product-Led Analytics**: Partnered with Product team to define metrics, drive feature adoption, and optimize user workflows
+- **Cross-Functional Support**: Enabled Logistics, Operations, Marketing, Business, and Tech teams with data-driven insights
 - Designed **end-to-end ETL pipelines** tracking 50K+ daily orders across Pan-India logistics
 - Built **real-time KPI dashboards** adopted by C-suite for operational decisions
 - Implemented **AI-powered anomaly detection** reducing false positives by 40%
@@ -59,6 +63,8 @@ From raw data to business insights—I handle the entire pipeline:
 - 💰 **75% revenue protection** (40% → 10% leakage)
 - ⏱️ **150+ hrs/month saved** (MIS automation)
 - 📈 **20% SLA improvement** (optimized monitoring)
+- 🤝 **6+ teams enabled** with self-service analytics
+- 📊 **Product-wide metrics** driving feature prioritization
 
 </td>
 </tr>
@@ -68,22 +74,25 @@ From raw data to business insights—I handle the entire pipeline:
 - Built scalable **Snowflake data warehouse** with star-schema models supporting 100K+ daily queries
 - Automated **SQL-based root-cause analysis** detecting hidden revenue patterns in real-time
 - Optimized **complex SQL queries**, reducing dashboard load times by 60% and infrastructure costs
-- Created **self-service analytics layer** enabling cross-functional teams (Operations, Product, MIS) to access insights independently
+- Created **self-service analytics layer** enabling cross-functional teams (Product, Operations, Logistics, Marketing, Business, Tech) to access insights independently
 - Implemented **data quality frameworks** catching issues before they impact business decisions
+- **Product collaboration**: Translated user feedback and product strategy into actionable data metrics
 
 ---
 
 ### 📍 Data Analyst — **AlphaMetrics International Pvt. Ltd.**
-**Jan 2024 – Mar 2025 | Remote** | Multi-Vertical Analytics
+**Jan 2024 – Mar 2025 | Remote** | Multi-Vertical Product Analytics
 
 <table>
 <tr>
 <td width="50%">
 
 **🎯 Key Contributions**
+- **Product Strategy Support**: Collaborated with Product team on feature impact analysis and user behavior insights
 - Developed **5+ BI dashboards** across revenue, conversion, and operational verticals
 - Conducted **advanced analytics** (funnel, cohort, A/B, ROI analysis)
 - Automated **40%+ manual reporting** workflows using Python & SQL
+- Enabled **cross-team decision-making** through self-service analytics
 
 </td>
 <td width="50%">
@@ -92,6 +101,8 @@ From raw data to business insights—I handle the entire pipeline:
 - 📉 **40% manual effort reduction** (ETL automation)
 - 🎯 **Improved conversion rates** (through A/B insights)
 - ✅ **30% data quality lift** (validation frameworks)
+- 📊 **Multi-vertical visibility** across 5+ business units
+- 🚀 **Data-driven product roadmap** support
 
 </td>
 </tr>
@@ -101,7 +112,8 @@ From raw data to business insights—I handle the entire pipeline:
 - Built **Power BI & Tableau dashboards** providing real-time visibility into revenue, conversion, and KPI performance across 5+ business units
 - Designed **Python-based ETL pipelines** processing 1M+ records daily, reducing manual effort by 40%+
 - Implemented **data validation & governance frameworks**, improving reliability and enabling confident decision-making
-- Partnered with Product teams in **Agile environments**, translating analytical findings into actionable business requirements
+- Partnered with Product, Operations, and Business teams in **Agile environments**, translating analytical findings into actionable business requirements
+- **User analytics**: Tracked adoption metrics, feature performance, and user behavior patterns for product optimization
 
 ---
 
@@ -152,7 +164,7 @@ AI-Assisted Development · LLMs for SQL/Python · Process Improvement
 | **Analytics** | Root-cause analysis, Anomaly detection, KPI/Funnel/Cohort analysis, A/B testing, ROI analysis, Data quality monitoring |
 | **Data Operations** | Process automation, Workflow optimization, ETL/ELT pipeline design, Data governance, Performance tuning |
 | **BI & Visualization** | Dashboard design, Real-time monitoring frameworks, Data storytelling, Executive reporting, Self-service analytics |
-| **Problem-Solving** | Business requirement translation, Scalable solution design, Performance optimization, Cross-functional collaboration |
+| **Cross-Functional Leadership** | Product strategy alignment, Stakeholder management, Business requirements translation, Multi-team enablement |
 
 ---
 
@@ -187,7 +199,7 @@ A comprehensive analytics platform simulating enterprise-scale logistics operati
 - ✅ Real-time revenue anomaly detection
 - ✅ 40% faster query performance vs. manual analysis
 - ✅ Automated data quality checks (99.5% data accuracy)
-- ✅ Self-service analytics enabling 3+ teams
+- ✅ Self-service analytics enabling 6+ teams
 
 **🔗 Explore on GitHub**
 [→ View Full Project](https://github.com/Shivam24012001/logistics-snowpark-platform)
@@ -208,7 +220,7 @@ A comprehensive analytics platform simulating enterprise-scale logistics operati
 
 | 🏆 | 🤝 | 🔄 | 💡 |
 |:---:|:---:|:---:|:---:|
-| **C-Level**<br>Dashboard Adoption<br><sub>Daily decision-making</sub> | **5+ Teams**<br>Enabled<br><sub>Self-service analytics</sub> | **40%+ Effort**<br>Reduction<br><sub>Automation pipelines</sub> | **60% Faster**<br>Query Performance<br><sub>SQL optimization</sub> |
+| **C-Level**<br>Dashboard Adoption<br><sub>Daily decision-making</sub> | **6+ Teams**<br>Enabled<br><sub>Self-service analytics</sub> | **40%+ Effort**<br>Reduction<br><sub>Automation pipelines</sub> | **60% Faster**<br>Query Performance<br><sub>SQL optimization</sub> |
 
 </div>
 
@@ -220,8 +232,9 @@ A comprehensive analytics platform simulating enterprise-scale logistics operati
 🎯 **Impact-Oriented** — Every project is measured by business value, not just technical metrics  
 🚀 **Scalable Thinker** — I build solutions that grow with your business, not one-off fixes  
 📚 **Continuous Learner** — Always exploring new tools, techniques, and best practices  
-🤝 **Team Player** — Thrive in cross-functional environments; excellent at translating between technical and business teams  
-📈 **Data Storyteller** — Can translate complex analyses into clear, actionable insights for any audience
+🤝 **Cross-Functional Leader** — Thrive in multi-team environments; excellent at translating between Product, technical, and business teams  
+📈 **Data Storyteller** — Can translate complex analyses into clear, actionable insights for any audience  
+🎯 **Product Mindset** — Understand how data drives product decisions and user success
 
 ---
 
@@ -265,13 +278,6 @@ A comprehensive analytics platform simulating enterprise-scale logistics operati
 
 ---
 
-## 🎤 Testimonials
-
-> *"Shivam took our chaotic reporting process and turned it into an automated, reliable system. What used to take days now takes minutes. His attention to data quality is exceptional."*  
-> — **Operations Manager, Attero Recycling**
-
----
-
 ## 💬 Let's Connect & Build Together
 
 I'm always excited to discuss:
@@ -280,6 +286,7 @@ I'm always excited to discuss:
 - 🤝 Cross-functional collaboration on data-driven projects
 - 💡 Industry trends in data, analytics, and automation
 - 🔧 Modern data stack tools and best practices (dbt, orchestration, etc.)
+- 📈 Product metrics and data-driven product strategy
 
 <div align="center">
 
@@ -300,10 +307,10 @@ I'm always excited to discuss:
 ### 🚀 Open to Opportunities
 
 Seeking roles in:
+- **Product Analytics** (metrics, feature analysis, user insights)
 - **Data Engineering** (ETL/ELT pipelines, dbt, data warehousing)
 - **Analytics Engineering** (BI infrastructure, analytics modeling, modern data stack)
-- **Senior Data Analyst** (advanced analytics, process optimization, dbt, orchestration)
-- **Data Operations** (automation, monitoring, governance, orchestration)
+- **Senior Data Analyst** (advanced analytics, cross-functional leadership, dbt, orchestration)
 
 *Remote, Hybrid, or On-site in India*
 
