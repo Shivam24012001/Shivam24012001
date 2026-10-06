@@ -52,6 +52,7 @@
 **Data Engineering & Warehousing**
 
 ![Snowflake](https://img.shields.io/badge/Snowflake-29B5E8?style=for-the-badge&logo=snowflake&logoColor=white)
+![Snowpark](https://img.shields.io/badge/Snowpark%20Python-29B5E8?style=for-the-badge&logo=snowflake&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-CC2927?style=for-the-badge&logo=postgresql&logoColor=white)
 ![PySpark](https://img.shields.io/badge/PySpark-E25A1C?style=for-the-badge&logo=apachespark&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
@@ -80,7 +81,7 @@
 ![Jira](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white)
 ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
 
-**Concepts:** CDC Ingestion · Snowpipe · Medallion Architecture · Task Orchestration · RBAC / Least Privilege · Star Schema · ETL/ELT · Streams & Tasks · Dynamic Tables · Incremental Processing · Data Quality & Validation · Root-Cause Analysis · Funnel / Cohort / A/B Analysis
+**Concepts:** Multi-source Ingestion · CDC Ingestion · Snowpipe · Medallion Architecture · Task Orchestration · RBAC / Least Privilege · Star Schema · ETL/ELT · Streams & Tasks · Dynamic Tables · Incremental Processing · Data Quality & Validation · Root-Cause Analysis · Funnel / Cohort / A/B Analysis
 
 ---
 
@@ -88,17 +89,28 @@
 
 ```mermaid
 flowchart LR
-    DB[(MySQL RDS<br/>OLTP)] -->|AWS DMS<br/>CDC: I/U/D| S3[(AWS S3)]
-    S3 -->|SQS events +<br/>Snowpipe AUTO_INGEST| B[(Bronze / LANDING<br/>raw CDC, 120+ tables)]
-    GA[GA4 web events] -->|Native export| BQ[(BigQuery)]
-    BQ -->|Marts via Parquet / GCS| B
+    subgraph SRC[Sources]
+        DB[(MySQL RDS<br/>orders, users, calls, UTM)]
+        GA[GA4 web events]
+        PK[Picker app<br/>GPS tracking & counts]
+        XL[Excel / Sheets<br/>picker data maintained by ops]
+    end
+
+    DB -->|AWS DMS CDC| S3[(AWS S3)]
+    S3 -->|SQS + Snowpipe| B[(Bronze / LANDING<br/>raw, 120+ tables)]
+    GA -->|Native daily export| BQ[(BigQuery<br/>raw landing zone)]
+    BQ -->|Snowflake native connector<br/>raw events, no pre-aggregation| B
+    PK -->|CSV exports| F[File ingestion<br/>Snowpark Python +<br/>schema validation]
+    XL --> F
+    F --> B
+
     B -->|Dedup: latest record wins<br/>Streams + Tasks| C[(Silver / STAGING<br/>cleaned, 55+ models)]
     C -->|Star / snowflake-schema modeling| D[(Gold / ANALYTICS<br/>facts - dims - marketing marts)]
     C -.-> Q{{Quality & reconciliation<br/>checks}}
     O[Task orchestration<br/>night suspend / morning resume] -.-> C
     O -.-> D
     D --> E[Metabase<br/>tiered dashboards]
-    D --> F[Power BI]
+    D --> F2[Power BI]
     D --> G[Automated MIS<br/>& KPI reports]
     D --> H[Risk scoring &<br/>bulk-order detection]
     D --> I[Picker route analytics<br/>Flask + Folium]
@@ -116,7 +128,7 @@ flowchart LR
 
 ### 📣 Marketing Analytics
 - GA4 tracking plan, event/conversion validation and UTM structure
-- **GA4 → BigQuery → Snowflake** pipeline (daily export, staging, session & channel marts)
+- **GA4 → BigQuery → Snowflake** raw-data pipeline: GA4 exports raw events to BigQuery, a Snowflake connector replicates them as-is, and flattening, sessionization and channel marts are built in Snowflake (ELT)
 - Customer-journey funnel: **session → registration → order**, with drop-off % at every stage
 - Campaign performance by UTM source/campaign on **backend-confirmed orders**
 - Reconciliation of GA4 / ad-platform numbers against warehouse orders (attribution windows, cross-browser gaps, consent loss)
@@ -168,12 +180,13 @@ Owns the end-to-end reporting ecosystem for a reverse-logistics business: requir
 
 **❄️ Data platform & engineering**
 - Built a centralized Snowflake warehouse (Medallion architecture) consolidating application and operational sources, fed by a CDC pipeline (MySQL → AWS DMS → S3 → Snowpipe)
+- **Multi-source ingestion:** unified CDC data, GA4 raw events, picker-app GPS exports and Excel-maintained picker data into one governed warehouse; file-based sources are loaded with **Snowpark Python** and schema validation
 - Re-engineered high-cost Dynamic Table workflows into incremental Streams + Tasks, **cutting compute 30%** while keeping near-real-time freshness
 - Task orchestration with dependency-ordered resume, nightly suspend and pipeline health monitoring
 
 **📣 Marketing & product analytics**
 - Marketing funnel analytics across the customer journey to pinpoint conversion drop-offs and guide campaign decisions
-- GA4 → BigQuery → Snowflake marketing data pipeline with reconciliation against backend orders *(in progress)*
+- GA4 raw events replicated BigQuery → Snowflake through a native connector, modeled in Snowflake and reconciled against backend orders *(in progress)*
 - Tiered Metabase reporting for leadership and functional teams (KPIs, SLAs, business health)
 
 **🚚 Operations analytics**
@@ -249,7 +262,7 @@ I'm going deeper into **data engineering**: distributed processing, advanced Sno
 |---|---|
 | ⚡ **PySpark** | Distributed processing, schema enforcement, partitioning and performance tuning, structured streaming |
 | ❄️ **Advanced Snowflake** | Streams & Tasks, Dynamic Tables, Snowpark, clustering and query optimization, cost governance, RBAC |
-| ☁️ **GCP & BigQuery** | Partitioned / clustered tables, scheduled queries, Dataform, cost controls, BigQuery → Snowflake loading |
+| ☁️ **GCP & BigQuery** | Partitioned / clustered tables, scheduled queries, Dataform, cost controls, BigQuery → Snowflake raw replication via connector, ELT modeling in Snowflake |
 | 📊 **GA4 data engineering** | Event export schema, session and attribution modeling, reconciliation against backend orders |
 | 🤖 **AI agents for automation** | Agents that run my routine tasks: report refresh and checks, pipeline health summaries, anomaly explanations, stakeholder updates |
 | 🧱 **dbt & orchestration** | Tested, versioned transformations, Airflow-style scheduling, CI/CD for analytics |
