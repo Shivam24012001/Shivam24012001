@@ -1,98 +1,66 @@
-<h1 align="center">Hi 👋, I'm Shivam Mishra</h1>
+<h1 align="center">Shivam Mishra</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&duration=3500&pause=700&color=29B5E8&center=true&vCenter=true&width=750&height=50&lines=Analytics+Engineer+%7C+Data+Engineer;Snowflake+%E2%80%A2+SQL+%E2%80%A2+Python+%E2%80%A2+PySpark;I+turn+messy+operational+data+into+decisions;150%2B+manual+hours%2Fmonth+automated+away" alt="Typing SVG" />
+  <b>Analytics Engineer · Data Analyst</b><br>
+  Snowflake · SQL · Python · PySpark · Metabase · Power BI
 </p>
 
 <p align="center">
-  <b>I build the analytics infrastructure businesses actually run on</b> — Snowflake warehouses, automated pipelines, and dashboards leadership trusts.
+  I turn messy operational data into automated pipelines and dashboards that a business actually runs on.
 </p>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/shivammishra-sm/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="mailto:sm8954223@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-  <a href="https://shivam24012001.github.io/"><img src="https://img.shields.io/badge/Portfolio-FF6B6B?style=for-the-badge&logo=googlechrome&logoColor=white" /></a>
-  <img src="https://komarev.com/ghpvc/?username=Shivam24012001&label=Profile%20Views&color=29B5E8&style=for-the-badge" />
+  <a href="https://www.linkedin.com/in/shivammishra-sm/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+  <a href="mailto:sm8954223@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
+  <a href="https://shivam24012001.github.io/"><img src="https://img.shields.io/badge/Portfolio-FF6B6B?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio"></a>
 </p>
 
----
-
-## 🎯 At a Glance
-
-| 🧭 Role | 🏢 Currently | 📍 Based in | 🎓 Education |
-|---|---|---|---|
-| Analytics Engineer / Data Analyst | Attero Recycling (Product & Logistics Analytics) | Noida, India | B.Tech ECE, 8.4 CGPA |
-
-**2.5 years** of experience owning reporting ecosystems end to end: requirements → Snowflake models → automated pipelines → Metabase / Power BI dashboards.
+<p align="center"><b>🟢 Open to work</b> · Data Engineering · Analytics Engineering · Senior Data Analyst · Remote, hybrid or on-site (India)</p>
 
 ---
 
-## 🏆 Business Impact
+## 🏆 Impact in numbers
 
-<table align="center">
-<tr>
-<td align="center" width="25%"><h2>150+ hrs</h2><sub>manual reporting effort eliminated <b>every month</b></sub></td>
-<td align="center" width="25%"><h2>30%</h2><sub>Snowflake compute cost reduced via Streams + Tasks re-architecture</sub></td>
-<td align="center" width="25%"><h2>5–8 min → 30 sec</h2><sub>order-status investigation time</sub></td>
-<td align="center" width="25%"><h2>Days → Minutes</h2><sub>reporting turnaround</sub></td>
-</tr>
-</table>
+*2.6+ years owning reporting ecosystems end to end: requirements → Snowflake models → automated pipelines → dashboards.*
 
-- 🛡️ **Risk scoring engine:** SQL-driven framework on **30+ data signals**, replacing a manual review that took up to **10 min per order**
-- 👥 **Picker Operations Analytics:** automated visibility into pickup performance and staffing, replacing a **5-person manual process**
-- 🧩 **Single source of truth:** centralized Snowflake warehouse (Medallion architecture) serving IT, Business, Logistics, Operations, Marketing and Finance
-- ❄️ **Production platform, end to end:** MySQL RDS → AWS DMS (CDC) → S3 → Snowpipe → Medallion layers (120+ landing tables, 55+ staging models, 30+ analytics tables) with orchestration, monitoring, RBAC and runbooks
-- 📣 **Marketing data, built from scratch:** GA4 → BigQuery → Snowflake pipeline plus a UTM-to-order funnel layer, so campaign performance is measured on real backend orders instead of platform-reported conversions
-- 🔍 **Product & ops insight:** funnel drop-off analytics, route-adherence clustering, and SQL root-cause analysis that led to a data-backed 70:30 fresh-to-rescheduled order allocation strategy
+| Result | What I did |
+|---|---|
+| **30–35% → 55–60%** | Raised order pickup rate by running SQL root-cause analysis and proposing a 70:30 fresh-to-rescheduled allocation strategy |
+| **150+ hours / month** | Eliminated manual MIS and KPI reporting; turnaround went from days to minutes |
+| **30% lower compute** | Re-architected Snowflake Dynamic Tables into incremental Streams + Tasks, keeping near-real-time freshness |
+| **5–8 min → 30 sec** | Cut order-status investigation time with an Order & Picker Journey Tracker |
+| **30+ signals** | Built an SQL risk scoring framework that replaced a manual review of up to 10 minutes per order |
+| **5-person process → 0** | Replaced a manual picker-operations process with automated analytics |
+| **40%+ less manual effort** | Automated SQL and Python ETL pipelines at my previous role |
+| **30% better data quality** | Validation frameworks, QA and governance for critical datasets at my previous role |
 
 ---
 
-## 🧰 Tech Stack
+## 🧱 What I've built at work
 
-**Data Engineering & Warehousing**
+*Described at a high level, because the code and data belong to my employer.*
 
-![Snowflake](https://img.shields.io/badge/Snowflake-29B5E8?style=for-the-badge&logo=snowflake&logoColor=white)
-![Snowpark](https://img.shields.io/badge/Snowpark%20Python-29B5E8?style=for-the-badge&logo=snowflake&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-CC2927?style=for-the-badge&logo=postgresql&logoColor=white)
-![PySpark](https://img.shields.io/badge/PySpark-E25A1C?style=for-the-badge&logo=apachespark&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![AWS S3](https://img.shields.io/badge/AWS%20S3-569A31?style=for-the-badge&logo=amazons3&logoColor=white)
-![BigQuery](https://img.shields.io/badge/BigQuery-669DF6?style=for-the-badge&logo=googlebigquery&logoColor=white)
-![GA4](https://img.shields.io/badge/Google%20Analytics%204-E37400?style=for-the-badge&logo=googleanalytics&logoColor=white)
+**❄️ A single source of truth**
+Built a centralized Snowflake warehouse on a Medallion (Bronze-Silver-Gold) architecture. It combines operational database changes (CDC), GA4 events, app exports and spreadsheet data, and serves IT, Business, Logistics, Operations, Marketing and Finance. Quality and reconciliation checks run after loading (freshness, update timestamps, nulls) so numbers are checked before anyone sees them.
 
-**Languages & Processing**
+**🏗️ Production platform, end to end**
+MySQL RDS → AWS DMS (CDC) → S3 → Snowpipe → Medallion layers: **120+ landing tables, 55+ staging models, 30+ analytics tables**, with task orchestration (dependency-ordered resume, nightly suspend), pipeline monitoring, RBAC and runbooks. File-based sources (picker-app GPS exports, Excel-maintained picker data) are loaded with Snowpark Python and schema validation.
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
-![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+**📣 Marketing data, measured on real orders**
+Set up a GA4 → BigQuery → Snowflake pipeline that replicates raw events and models them in Snowflake (ELT). It feeds a session → registration → order funnel, so campaigns are judged on backend-confirmed orders instead of platform-reported conversions. Reconciling GA4 numbers against warehouse orders is in progress.
 
-**BI & Visualization**
+**🚚 Operations and risk analytics**
+Route-adherence analytics with geolocation clustering, a Picker Operations Analytics system for pickup performance and staffing, and an SQL risk scoring engine. Delivered to leadership through tiered Metabase dashboards.
+**In progress:** upgrading bulk-order detection to a **graph-network method in Snowflake** (nodes: orders and entities, edges: shared attributes).
 
-![Metabase](https://img.shields.io/badge/Metabase-509EE3?style=for-the-badge&logo=metabase&logoColor=white)
-![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
-![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white)
-
-**Tools & Workflow**
-
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![Jira](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white)
-![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
-
-**Concepts:** Multi-source Ingestion · CDC Ingestion · Snowpipe · Medallion Architecture · Task Orchestration · RBAC / Least Privilege · Star Schema · ETL/ELT · Streams & Tasks · Dynamic Tables · Incremental Processing · Data Quality & Validation · Root-Cause Analysis · Funnel / Cohort / A/B Analysis
-
----
-
-## 🏗️ How I Build: Reference Architecture
+### Production architecture
 
 ```mermaid
 flowchart LR
     subgraph SRC[Sources]
         DB[(MySQL RDS<br/>orders, users, calls, UTM)]
         GA[GA4 web events]
-        PK[Picker app<br/>GPS tracking & counts]
+        PK[Picker app<br/>GPS tracking and counts]
         XL[Excel / Sheets<br/>picker data maintained by ops]
     end
 
@@ -105,198 +73,103 @@ flowchart LR
     F --> B
 
     B -->|Dedup: latest record wins<br/>Streams + Tasks| C[(Silver / STAGING<br/>cleaned, 55+ models)]
-    C -->|Star / snowflake-schema modeling| D[(Gold / ANALYTICS<br/>facts - dims - marketing marts)]
-    C -.-> Q{{Quality & reconciliation<br/>checks}}
+    C -->|Star / snowflake-schema modeling| D[(Gold / ANALYTICS<br/>facts, dims, marketing marts)]
+    C -.-> Q{{Quality and reconciliation<br/>checks}}
     O[Task orchestration<br/>night suspend / morning resume] -.-> C
     O -.-> D
     D --> E[Metabase<br/>tiered dashboards]
     D --> F2[Power BI]
-    D --> G[Automated MIS<br/>& KPI reports]
-    D --> H[Risk scoring &<br/>bulk-order detection]
+    D --> G[Automated MIS<br/>and KPI reports]
+    D --> H[Risk scoring and<br/>bulk-order detection]
     D --> I[Picker route analytics<br/>Flask + Folium]
 ```
 
-> **Design principles:** one source of truth · incremental over full refresh (cost-aware) · reconcile every automated number against the source before anyone trusts it · automate anything done more than twice.
+> **My rules:** one source of truth · incremental over full refresh (cost-aware) · reconcile every automated number against the source · automate anything done more than twice.
 
 ---
 
-## 🧭 What I Do at Work
-
-<table>
-<tr>
-<td width="50%" valign="top">
-
-### 📣 Marketing Analytics
-- GA4 tracking plan, event/conversion validation and UTM structure
-- **GA4 → BigQuery → Snowflake** raw-data pipeline: GA4 exports raw events to BigQuery, a Snowflake connector replicates them as-is, and flattening, sessionization and channel marts are built in Snowflake (ELT)
-- Customer-journey funnel: **session → registration → order**, with drop-off % at every stage
-- Campaign performance by UTM source/campaign on **backend-confirmed orders**
-- Reconciliation of GA4 / ad-platform numbers against warehouse orders (attribution windows, cross-browser gaps, consent loss)
-
-</td>
-<td width="50%" valign="top">
-
-### 🧪 Product Analytics
-- Metric framework: **activation, retention, engagement, funnel drop-offs**
-- Config-driven funnel model (one dimension table controls every stage)
-- Monthly and daily funnel views with step-conversion and drop-off %
-- Churn / leakage tracking: cancellations and account deletions
-- Insights delivered to Product via tiered Metabase dashboards
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-### 🚚 Operational Analytics
-- **Picker Operations Analytics:** pickup performance and warehouse staffing visibility, replacing a 5-person manual process
-- **Order & Picker Journey Tracker:** status investigation from ~5-8 min to under 30 sec
-- **Route-adherence analytics** using geolocation clustering
-- SQL root-cause analysis of declining pickup performance, leading to a 70:30 fresh-to-rescheduled allocation strategy
-- SLA and business-health monitoring for leadership
-
-</td>
-<td width="50%" valign="top">
-
-### 🛡️ Risk & Data Platform
-- SQL risk scoring on **30+ signals** replacing a ~10-min manual order review
-- Upgrading bulk-order detection to a **graph-network method** in Snowflake (nodes: orders and entities, edges: shared attributes)
-- **CDC ingestion** (DMS → S3 → Snowpipe) and Medallion warehouse with Streams + Tasks (30% lower compute)
-- Automated MIS / KPI reporting across SQL, Python, Snowflake and Metabase
-- Validation checks before data reaches a dashboard
-
-</td>
-</tr>
-</table>
-
----
-
-## 💼 Professional Experience
-
-### Data Analyst · Attero Recycling
-<sub>Jun 2025 – Present &nbsp;|&nbsp; Noida, India &nbsp;|&nbsp; Product & Logistics Analytics</sub>
-
-Owns the end-to-end reporting ecosystem for a reverse-logistics business: requirements → Snowflake models → automated pipelines → Metabase dashboards.
-
-**❄️ Data platform & engineering**
-- Built a centralized Snowflake warehouse (Medallion architecture) consolidating application and operational sources, fed by a CDC pipeline (MySQL → AWS DMS → S3 → Snowpipe)
-- **Multi-source ingestion:** unified CDC data, GA4 raw events, picker-app GPS exports and Excel-maintained picker data into one governed warehouse; file-based sources are loaded with **Snowpark Python** and schema validation
-- Re-engineered high-cost Dynamic Table workflows into incremental Streams + Tasks, **cutting compute 30%** while keeping near-real-time freshness
-- Task orchestration with dependency-ordered resume, nightly suspend and pipeline health monitoring
-
-**📣 Marketing & product analytics**
-- Marketing funnel analytics across the customer journey to pinpoint conversion drop-offs and guide campaign decisions
-- GA4 raw events replicated BigQuery → Snowflake through a native connector, modeled in Snowflake and reconciled against backend orders *(in progress)*
-- Tiered Metabase reporting for leadership and functional teams (KPIs, SLAs, business health)
-
-**🚚 Operations analytics**
-- **Picker Operations Analytics** replacing a 5-person manual process
-- **Order & Picker Journey Tracker:** investigation time from ~5-8 min to under 30 sec
-- Route-adherence analytics using geolocation clustering
-- SQL root-cause analysis of declining pickup performance, leading to a 70:30 fresh-to-rescheduled allocation strategy
-
-**🛡️ Risk & automation**
-- SQL-driven risk scoring on 30+ data signals, eliminating a manual review of up to 10 min per order
-- Automated MIS and KPI reporting (SQL, Python, Snowflake, Metabase): **150+ hours/month saved**
-
-### Data Analyst · AlphaMetrics International
-<sub>Jan 2024 – Mar 2025 &nbsp;|&nbsp; Remote &nbsp;|&nbsp; Multi-vertical Analytics</sub>
-
-- Built Power BI and Tableau dashboards tracking revenue trends and KPIs across multiple business verticals
-- Ran funnel, cohort, A/B and ROI analyses to inform marketing and sales strategy
-- Automated SQL and Python ETL workflows, accelerating data delivery and cutting manual effort
-- Strengthened dataset reliability through validation, QA and governance practices
-
-> 🔒 *Work projects are described at a high level because the code and data belong to my employer. The projects below are my own.*
-
----
-
-## 🧪 Personal Projects
+## 🧪 Projects you can open
 
 ### 📦 [Logistics Analytics Platform](https://github.com/Shivam24012001/logistics-snowpark-platform)
 `Snowflake` `Snowpark Python` `SQL` `Power BI`
 
-End-to-end analytics solution across **orders, payments, deliveries and operational events**.
+End-to-end analytics across **orders, payments, deliveries and operational events**.
+
+- Dimensional models supporting analysis across the full order lifecycle
+- Power BI dashboards for revenue KPIs, SLA adherence and delivery performance
+- Automated data-quality checks and SQL pattern matching for suspicious ordering behaviour
 
 ```mermaid
 flowchart LR
-    A[Daily source data<br/>orders - payments - deliveries - events] --> B[ETL pipeline<br/>Snowpark Python]
+    A[Daily source data<br/>orders · payments · deliveries · events] --> B[ETL<br/>Snowpark Python]
     B --> C[(Snowflake<br/>dimensional models)]
-    B -.-> Q{{Automated data<br/>quality checks}}
-    C --> D[Power BI<br/>revenue - SLA - delivery KPIs]
-    C --> E[SQL fraud / anomaly<br/>pattern detection]
+    B -.-> Q{{Data quality checks}}
+    C --> D[Power BI<br/>revenue · SLA · delivery KPIs]
+    C --> E[SQL anomaly<br/>detection]
 ```
 
-- Dimensional models (orders, customers, payments, deliveries) supporting analysis across the **full order lifecycle**
-- Power BI dashboards for **revenue KPIs, SLA adherence and delivery performance**
-- SQL pattern matching to surface suspicious ordering behaviour
-- Reusable transformation logic designed for scale
-
-### ⚙️ Enterprise Real-Time Data Platform
+### ⚙️ [Enterprise Real-Time Data Platform](https://github.com/Shivam24012001/enterprise-real-time-data-platform)
 `Python` `PySpark` `Bronze-Silver-Gold` `JSON`
 
-Modular data platform covering **ingestion → processing → validation → analytics-ready layers**.
+Modular platform covering **ingestion → processing → validation → analytics-ready layers**.
+
+- Reusable PySpark components that process structured JSON against predefined schemas
+- Validation framework that flags data-quality issues *before* downstream processing
+- Automated generation of logistics datasets (customers, orders, deliveries)
 
 ```mermaid
 flowchart LR
-    G[Data generators<br/>customers - orders - deliveries] --> B[(Bronze<br/>raw JSON)]
+    G[Data generators<br/>customers · orders · deliveries] --> B[(Bronze<br/>raw JSON)]
     B -->|schema enforcement<br/>PySpark| S[(Silver<br/>validated)]
     S -->|business logic| Au[(Gold<br/>analytics-ready)]
-    B -.-> V{{Validation framework<br/>flags issues before<br/>downstream processing}}
+    B -.-> V{{Validation framework}}
 ```
 
-- Reusable **PySpark components** for processing structured JSON with predefined schemas
-- **Validation framework** that flags data-quality issues *before* downstream processing
-- Modular **Bronze-Silver-Gold** structure for scalable transformation
-- Automated data-generation workflows for logistics datasets (customers, orders, deliveries)
-
-<!-- Add repo link once public: ### ⚙️ [Enterprise Real-Time Data Platform](https://github.com/Shivam24012001/<repo-name>) -->
-
 ---
 
-## 🌱 Currently Learning & Building
+## 🧰 Tech stack
 
-I'm going deeper into **data engineering**: distributed processing, advanced Snowflake, the Google Cloud data stack, and AI agents that automate my own recurring work.
+![Snowflake](https://img.shields.io/badge/Snowflake-29B5E8?style=flat-square&logo=snowflake&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-CC2927?style=flat-square&logo=postgresql&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![PySpark](https://img.shields.io/badge/PySpark-E25A1C?style=flat-square&logo=apachespark&logoColor=white)
+![AWS S3](https://img.shields.io/badge/AWS%20S3-569A31?style=flat-square&logo=amazons3&logoColor=white)
+![BigQuery](https://img.shields.io/badge/BigQuery-669DF6?style=flat-square&logo=googlebigquery&logoColor=white)
+![GA4](https://img.shields.io/badge/GA4-E37400?style=flat-square&logo=googleanalytics&logoColor=white)
+![Metabase](https://img.shields.io/badge/Metabase-509EE3?style=flat-square&logo=metabase&logoColor=white)
+![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=flat-square&logo=powerbi&logoColor=black)
+![Tableau](https://img.shields.io/badge/Tableau-E97627?style=flat-square&logo=tableau&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 
-| Focus | What I'm exploring |
+| | |
 |---|---|
-| ⚡ **PySpark** | Distributed processing, schema enforcement, partitioning and performance tuning, structured streaming |
-| ❄️ **Advanced Snowflake** | Streams & Tasks, Dynamic Tables, Snowpark, clustering and query optimization, cost governance, RBAC |
-| ☁️ **GCP & BigQuery** | Partitioned / clustered tables, scheduled queries, Dataform, cost controls, BigQuery → Snowflake raw replication via connector, ELT modeling in Snowflake |
-| 📊 **GA4 data engineering** | Event export schema, session and attribution modeling, reconciliation against backend orders |
-| 🤖 **AI agents for automation** | Agents that run my routine tasks: report refresh and checks, pipeline health summaries, anomaly explanations, stakeholder updates |
-| 🧱 **dbt & orchestration** | Tested, versioned transformations, Airflow-style scheduling, CI/CD for analytics |
-| 🕸️ **Graph methods in SQL** | Network-based bulk-order and fraud-ring detection |
+| **Data engineering** | Medallion architecture · Snowpipe · Streams & Tasks · Dynamic Tables · incremental processing · Snowpark Python · ETL/ELT |
+| **Data modeling** | Conceptual, logical and physical models · Star Schema · semantic layers (Metabase, Power BI) · data dictionary · dbdiagram.io |
+| **Analytics** | Funnel, cohort, A/B and ROI analysis · regression, forecasting, clustering · root-cause analysis · risk scoring · graph methods in SQL (in progress) |
+| **Quality & governance** | Validation and reconciliation checks · metadata documentation · RBAC / least privilege |
 
 ---
 
-## 🟢 Open to Work
+## 💼 Experience
 
-<table>
-<tr>
-<td>
+**Data Analyst · Attero Recycling** · Jun 2025 – Present · Noida
+Owns reporting end to end: Snowflake warehouse, GA4 marketing pipeline, tiered Metabase dashboards, risk scoring and operations analytics (results above).
 
-**Looking for roles in:**
-- 🏗️ Data Engineering (Snowflake, PySpark, pipelines)
-- 🔧 Analytics Engineering
-- 📈 Senior Data Analyst / Product Analytics
+**Data Analyst · AlphaMetrics International** · Jan 2024 – Mar 2025 · Remote
+Built Power BI and Tableau dashboards across 5+ business verticals, ran funnel, cohort, A/B and ROI analyses, and automated SQL and Python ETL pipelines (40%+ less manual effort).
 
-</td>
-<td>
+**Education:** B.Tech, Electronics & Communication · Punjab Technical University · CGPA 8.4/10
 
-**What I bring:**
-- Snowflake + Medallion architecture in production
-- Measurable cost and time savings
-- Stakeholder-to-SQL translation across 6+ functions
+---
 
-**Work mode:** Remote · Hybrid · On-site (India)
+## 🌱 What I'm building next
 
-</td>
-</tr>
-</table>
+- **dbt and orchestration:** tested, versioned transformations and scheduled pipelines (Airflow-style)
+- **Advanced PySpark:** partitioning, performance tuning and structured streaming
+- **AI agents for routine work:** report refresh checks, pipeline health summaries and anomaly explanations
+
+---
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/shivammishra-sm/"><b>📩 Let's connect on LinkedIn</b></a> &nbsp;·&nbsp; <a href="mailto:sm8954223@gmail.com"><b>✉️ Email me</b></a>
+  <a href="https://www.linkedin.com/in/shivammishra-sm/"><b>📩 Connect on LinkedIn</b></a> &nbsp;·&nbsp; <a href="mailto:sm8954223@gmail.com"><b>✉️ Email me</b></a>
 </p>
-
-<p align="center"><i>Building analytics infrastructure that drives decisions.</i></p>
