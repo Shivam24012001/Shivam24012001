@@ -32,6 +32,7 @@
 | **90% auto-cleared** | Bulk-order detection algorithm on 30+ risk signals; only 10% of orders need manual review |
 | **500K–1M+ events / day** | GA4 → BigQuery → Snowflake pipeline for marketing data |
 | **30–35% → 55–60%** | Raised order pickup rate with SQL root-cause analysis and a 70:30 fresh-to-rescheduled allocation |
+| **6 functions + partners** | Work with IT, Business, Logistics, Operations, Marketing, Finance and external partners to turn business needs into data products |
 | **5–8 min → 30 sec** | Cut order-status investigation with a picker tracker that replaced a five-person manual process |
 
 ---
@@ -57,6 +58,9 @@ GA4 → BigQuery → Snowflake replicates raw events (500K–1M+ a day) and mode
 
 **🚚 Operations and risk analytics**
 Bulk-order detection on 30+ risk signals (90% auto-cleared), route-adherence analytics with geolocation clustering, and a Picker Operations Analytics system for pickup performance and staffing. Delivered through tiered Metabase dashboards across 16+ warehouse locations.
+
+**🤝 Built with the business, not just for it**
+I sit with the teams that use the data: requirements come from IT, Business, Logistics, Operations, Marketing, Finance and external partners, and each dashboard tier is shaped by who needs to see what. Stakeholder management is the part of the job I'm strongest at.
 
 ### Production architecture
 
@@ -96,11 +100,13 @@ flowchart LR
 ### ⚙️ [Enterprise Real-Time Data Platform](https://github.com/Shivam24012001/enterprise-real-time-data-platform)
 `Python` `PySpark` `Bronze-Silver-Gold` `JSON`
 
-Modular platform covering **ingestion → processing → validation → analytics-ready layers**.
+Modular platform covering **ingestion → processing → validation → analytics-ready layers**, now growing into **LendPulse** (roadmap below).
 
 - Reusable PySpark components that process structured JSON against predefined schemas
-- Validation framework that flags data-quality issues *before* downstream processing
+- Data-quality validator that fails a load on missing required fields and names the column and count, covered by pytest
+- Production hygiene: secrets from `.env` via pydantic-settings, UTC timestamps, MinIO image pinned by digest
 - Automated generation of logistics datasets (customers, orders, deliveries)
+- **Run as Scrum:** 2-week sprints, user stories with acceptance criteria, one PR per story, sprint reviews and retros on a public GitHub Projects board
 
 ```mermaid
 flowchart LR
@@ -152,27 +158,37 @@ flowchart LR
 | **Data engineering** | CDC ingestion · ELT/ETL · dbt · CI/CD · orchestration · Medallion architecture · data quality testing |
 | **Governance** | RBAC / least privilege · PII masking policies · separate ingest, compute and BI warehouses · runbooks |
 | **Analytics** | Funnel, cohort and A/B analysis · regression, forecasting, clustering · root-cause analysis · risk scoring |
+| **Ways of working** | Stakeholder management · requirements gathering · Agile/Scrum |
 
 ---
 
 ## 💼 Experience
 
 **Data Analyst (Data Engineering) · Attero Recycling** · Jun 2025 – Present · Noida
-Introduced Snowflake and lead the platform for Selsmart and MetalMandi: CDC, GA4 and MongoDB pipelines, dbt, governance, Metabase reporting and operations analytics (results above).
+Introduced Snowflake and lead the platform for Selsmart and MetalMandi: CDC, GA4 and MongoDB pipelines, dbt, governance, Metabase reporting and operations analytics, working with 6 functions and external partners (results above).
 
 **Data Analyst · AlphaMetrics International** · Jan 2024 – Mar 2025 · Remote
-Automated SQL and Python ETL pipelines (40%+ less manual effort), improved data quality by 30%, and built Power BI dashboards and funnel, cohort and A/B analyses across 5+ business verticals.
+Partnered with business and product stakeholders across 5+ verticals in Agile/Scrum sprints. Automated SQL and Python ETL pipelines (40%+ less manual effort), improved data quality by 30%, and built Power BI dashboards and funnel, cohort and A/B analyses.
 
 **Education:** B.Tech, Electronics & Communication · Punjab Technical University · CGPA 8.4/10
 
 ---
 
-## 🌱 What I'm building next
+## 🌱 What I'm building next: LendPulse
 
-- **Graph-based bulk-order detection:** a network method in Snowflake (orders and entities as nodes, shared attributes as edges)
-- **dbt at scale:** tests and CI for every model, and extending dbt beyond MetalMandi
-- **Advanced PySpark:** partitioning, performance tuning and structured streaming
-- **AI agents for routine work:** pipeline health summaries, report refresh checks and anomaly explanations
+A lending risk platform for a simulated Indian NBFC (loan against property and personal loans), built in public with 2-week sprints. It extends the Enterprise Real-Time Data Platform above.
+
+| Release | Target | What ships |
+|---|---|---|
+| v0.1 Foundation | Dec 2026 | Quarantine of malformed rows, retries, truthful README and tests *(in progress)* |
+| v0.2 dbt on DuckDB | Feb 2027 | Lending schema, EMI engine, loan simulator, dbt staging, daily DPD and NPA classification, portfolio dashboard |
+| v0.3 Orchestrated | Apr 2027 | CI on every PR, chaos injection, Airflow running dbt, backfills, reconciliation that fails the run on any gap |
+| v0.4 Risk analytics | May 2027 | SCD2 snapshots, incremental facts, roll rates and vintage curves, public dbt docs and lineage |
+| v1.0 Portfolio-ready | Jun 2027 | The same dbt project on Snowflake, PII masked by role, measured SLOs and a demo video |
+
+After v1.0: CDC with Debezium and Redpanda, a Databricks lakehouse, real-time bounce alerts and a governed AI agent for credit questions.
+
+Also next at work: **graph-based bulk-order detection** in Snowflake (orders and entities as nodes, shared attributes as edges).
 
 ---
 
